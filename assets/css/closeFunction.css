@@ -11,6 +11,7 @@
     transition: all 0.5s ease-out;
     -transition-delay: 0.2s;
   }
+/* Highlights the X on hover */
   .sq-close:hover{
     background-color: var(--danger-highlight);
     transition: all 0.5s ease-out;
@@ -45,7 +46,7 @@
     transition: all 0.4s ease-out;
     -transition-delay: 0.2s;
   }
-  /* button with hover and delay effect */
+  /* Button with hover and delay effect */
   .sq-button{
     margin: 1rem auto;
     font-size: 3rem;
@@ -62,7 +63,7 @@
     text-align: center;
     transition: all 0.5s ease-out;
   }
-  /* Hover */
+  /* Highlights button on hover */
   .sq-button:hover{
     color: var(--text-base);
     background-color: var(--white);;
