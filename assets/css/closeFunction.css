@@ -16,7 +16,7 @@
     background-color: var(--danger-highlight);
     transition: all 0.5s ease-out;
   }
-  /* modal background */
+  /* adds a modal background  */
   .sq-modalbg{
     position: fixed;
     top: 0;
@@ -46,7 +46,7 @@
     transition: all 0.4s ease-out;
     -transition-delay: 0.2s;
   }
-  /* Button with hover and delay effect */
+  /* Button with hover and transition effect */
   .sq-button{
     margin: 1rem auto;
     font-size: 3rem;
